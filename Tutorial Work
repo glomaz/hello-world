@@ -1,0 +1,8 @@
+int a = 4;
+int b = 2;
+int c = a - b + a * b;
+Console.WriteLine("c equals " + c);
+int d = c - b;
+Console.WriteLine("d equals " + d);
+int e = ((d * c) - a);
+Console.WriteLine("d times c less a equals " + e);
