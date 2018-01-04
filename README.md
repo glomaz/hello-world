@@ -1,2 +1,2 @@
 # hello-world
-World's Greatest Repository of All Time Forever
+World's Most Average Repository of All Time Forever
